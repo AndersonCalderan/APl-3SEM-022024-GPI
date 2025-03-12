@@ -28,7 +28,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 27/03/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Relatorio%20T%C3%A9cnico%20Oscar%20-%20Onset.pdf) | 
-|01 | 25/04/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-
+|01 | 25/04/2024 |concluido| [Ver Relatório]()
 |Feira de Soluções|27/06/2024 |concluido|[Ver Relatório]() | 
 
 # 🚦Status do Projeto
