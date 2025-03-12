@@ -28,9 +28,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 27/03/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Relatorio%20T%C3%A9cnico%20Oscar%20-%20Onset.pdf) | 
-|01 | 25/04/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Resumo%20sprint%201.pdf) | 
-|02|  23/05/2024|concluido|[Ver Relatório]() | 
-|03| 13/06/2024 |concluido|[Ver Relatório]() | 
+|01 | 25/04/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-
 |Feira de Soluções|27/06/2024 |concluido|[Ver Relatório]() | 
 
 # 🚦Status do Projeto
@@ -57,19 +55,6 @@ gerando prejuizo para a empresa
 ## Sprint 1 
 
 [![SPRINT 1](https://img.youtube.com/vi/Af5tf1YnF4M/0.jpg)](https://youtu.be/Af5tf1YnF4M)
-
-
-## Sprint 2
-
-[![SPRINT 2](https://img.youtube.com/vi/7RTDxbWEjZ8/0.jpg)](https://youtu.be/7RTDxbWEjZ8)
-
-## Sprint 3
-
-[![SPRINT 3](https://img.youtube.com/vi/TIn0GpKtuiY/0.jpg)](https://youtu.be/TIn0GpKtuiY)
-
-## Apresentação final
-
-[![SPRINT 2](https://img.youtube.com/vi/1-UoUQEoTeA/0.jpg)](https://youtu.be/1-UoUQEoTeA)
 
 
 # 📇Tecnológias Específicas/Apoio
@@ -116,18 +101,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  * [x] Elaboração da apresentação-✅
  * [x] Edição do Vídeo-✅
  * [x] Entrega-✅
-
-      
-## 📌Sprint 3
-
- * [x] Definição de Backlog da Sprint-✅
- * [x] Definição de Sprint Atividades-✅
- * [x] Criar Grafico Burndown-✅
- * [x] Elaborar proposta p/ melhoria dos Indicadores-
- * [x] Elaboração da apresentação-✅
- * [x] Edição do Vídeo-✅
- * [x] Entrega-✅
-     
+          
 # 📝Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
