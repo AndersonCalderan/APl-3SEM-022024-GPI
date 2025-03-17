@@ -50,7 +50,7 @@ gerando prejuizo para a empresa
 
 ## Sprint 1 
 
-[![SPRINT 1](https://img.youtube.com/vi/Af5tf1YnF4M/0.jpg)](https://youtu.be/Af5tf1YnF4M)https://youtube.com/watch?v=7FNLCfzAf7Q&si=scfdWzQPvoAyb2Iv
+[![SPRINT 1](https://img.youtube.com/vi/7FNLCfzAf7Q/0.jpg)](https://youtu.be/7FNLCfzAf7Q)
 
 
 # 📇Tecnológias Específicas/Apoio
