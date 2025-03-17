@@ -23,9 +23,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 27/03/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Relatorio%20T%C3%A9cnico%20Oscar%20-%20Onset.pdf) | 
-|01 | 25/04/2024 |concluido| [Ver Relatório]()
-|Feira de Soluções|27/06/2024 |concluido|[Ver Relatório]() | 
+|Kick Off | 27/11/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Relatorio%20T%C3%A9cnico%20Oscar%20-%20Onset.pdf) | 
+|01 | 25/11/2024 |concluido| [Ver Relatório]()
+|Feira de Soluções|06/12/2024 |concluido|[Ver Relatório]() | 
 
 # 🚦Status do Projeto
 
@@ -42,55 +42,15 @@ Sprint | Previsão | Status| Histórico|
 A equipe ira realizar um planejamento estratégico para a empresa OSCAR com foco em melhorar o processo de defeito relacionado aos produtos que voltam para a loja após comprado pelo cliente,
 gerando prejuizo para a empresa
 
-* Desenvolver uma análise quantitativa dos produtos com defeito que voltam para a loja;
-* Desenvolver um plano de melhoria;
-* Proposta para redução do prejuizo gerado pela devolução dos produtos.
+* Desenvolver uma análise quantitativa para melhoria
+* Utilizando o método A3
 
 # 🛠️Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1 
 
 [![SPRINT 1](https://img.youtube.com/vi/7FNLCfzAf7Q/0.jpg)](https://youtu.be/7FNLCfzAf7Q)
-
-# ⏳Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-## Cronograma das Sprints[(clique aqui)](https://github.com/users/AndersonCalderan/projects/2)
-
-# 📋Backlog do produto
-
-![image](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/Backlog.jpg)
-
-# 📋Burndown
-
-![image](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%203/Documento/Burndown.gif)
-
-
-## 📌Sprint 1
-
- * [x] em desenvolvimento-✅
- * [x] Definição de Backlog-✅
- * [x] Analisar necessidade do cliente-✅
- * [x] Visita ao Cliente - Mapeamento-✅
- * [x] Definição de Sprint Atividades-✅
- * [x] Criar Grafico Burndown-✅
- * [x] Elaboração da apresentação-✅
- * [x] Edição do Vídeo-✅
- * [x] Entrega-✅
-
-## 📌Sprint 2
-
- * [x] Definição de Backlog da Sprint-✅
- * [x] Analise dados do cliente Venda/Devolução-✅
- * [x] Definição de Sprint Atividades-✅
- * [x] Criar Grafico Burndown-✅
- * [x] Ferramentas de analise (Fluxograma)-✅
- * [x] Elaboração da apresentação-✅
- * [x] Edição do Vídeo-✅
- * [x] Entrega-✅
-          
+        
 # 📝Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
