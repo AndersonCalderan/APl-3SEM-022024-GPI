@@ -52,13 +52,6 @@ gerando prejuizo para a empresa
 
 [![SPRINT 1](https://img.youtube.com/vi/7FNLCfzAf7Q/0.jpg)](https://youtu.be/7FNLCfzAf7Q)
 
-
-# 📇Tecnológias Específicas/Apoio
-
-<p align="center">
- <img src="https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/tecnologia.png" width="100%"/>
-</p>
-
 # ⏳Cronograma das Sprints
 
 ## Cronograma
