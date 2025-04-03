@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 27/11/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Relatorio%20T%C3%A9cnico%20Oscar%20-%20Onset.pdf) | 
 |01 | 25/11/2024 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/APl-3SEM-022024-GPI/blob/main/PROJETO/ARQUIVO/Relatorio%20Final%20Anderson_Calderan.pdf)
-|Feira de Soluções|06/12/2024 |concluido|[Ver Relatório]() | 
+|Feira de Soluções|06/12/2024 |concluido|[Ver Relatório](https://github.com/AndersonCalderan/APl-3SEM-022024-GPI/blob/main/PROJETO/ARQUIVO/Anderson_Calderan%20A3%20Layout.pdf) | 
 
 # 🚦Status do Projeto
 
